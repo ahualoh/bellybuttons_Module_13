@@ -112,7 +112,7 @@ function buildCharts(sample) {
 
     // Deliverable 1: 9. Create the layout for the bar chart. 
     var barLayout = {
-      title: "bar title",
+      title: "Bacteria Cultures Present",
       xaxis: {title: "bactertia counts"},
       yaxis: {title: "bacteria name"}
     };
